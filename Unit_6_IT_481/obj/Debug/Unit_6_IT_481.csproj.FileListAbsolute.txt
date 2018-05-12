@@ -1,0 +1,2 @@
+C:\Users\Sue\source\repos\Unit_6_IT_481\Unit_6_IT_481\obj\Debug\Unit_6_IT_481.csprojResolveAssemblyReference.cache
+C:\Users\Sue\source\repos\Unit_6_IT_481\Unit_6_IT_481\obj\Debug\Unit_6_IT_481.csproj.CoreCompileInputs.cache
